@@ -14,7 +14,7 @@ class HomeScreen extends StatefulWidget {
 
   @override
   HomeScreenState createState() {
-    return new HomeScreenState();
+    return HomeScreenState();
   }
 }
 
